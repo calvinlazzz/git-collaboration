@@ -1,2 +1,4 @@
 apples.txt
 Granny Smith
+Fuji
+Green
